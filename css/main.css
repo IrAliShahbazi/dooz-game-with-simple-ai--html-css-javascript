@@ -1,0 +1,15 @@
+/*(ویرایش نشود)*/
+/*شما با ویرایش این فایل تمام قوانین موجود در فایل (قوانین.pdf) رو تایید کردید*/
+/*                                                لینک فایل:*/
+/*    https://github.com/IrAliShahbazi/license/           */
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+    height: 100px;
+}
+div{
+    text-align: center;
+}
